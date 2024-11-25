@@ -92,4 +92,4 @@ Here are some of the technologies I have experience with. Click on the icons to 
 ## 🌐 **Contato / Contact**  
 - **Site**: [www.lttech.com.br](https://www.lttech.com.br)  
 - **Email**: contato@lttech.com.br
-- **LinkedIn**: [linkedin.com/in/alanleonidas]([https://linkedin.com/in/alanleonidas](https://www.linkedin.com/in/alan-le%C3%B4nidas-da-silva-44813b30/?originalSubdomain=br]))  
+- **LinkedIn**: [linkedin.com/in/alanleonidas](https://www.linkedin.com/in/alan-le%C3%B4nidas-da-silva-44813b30/?originalSubdomain=br)  
