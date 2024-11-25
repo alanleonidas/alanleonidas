@@ -91,5 +91,5 @@ Here are some of the technologies I have experience with. Click on the icons to 
 
 ## 🌐 **Contato / Contact**  
 - **Site**: [www.lttech.com.br](https://www.lttech.com.br)  
-- **Email**: alan.leonidas@exemplo.com  
+- **Email**: contato@lttech.com.br
 - **LinkedIn**: [linkedin.com/in/alanleonidas](https://linkedin.com/in/alanleonidas)  
