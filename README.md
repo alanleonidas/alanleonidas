@@ -14,8 +14,11 @@ I have worked on various projects, including fiscal solutions, financial integra
 
 ---
 
-🛠 Tecnologias Utilizadas
+## **🇧🇷 🛠 Tecnologias Utilizadas**
 Aqui estão algumas das tecnologias com as quais tenho experiência. Clique nos ícones para saber mais:
+
+## **🇺🇸 🛠Technologies Used**  
+Here are some of the technologies I have experience with. Click on the icons to find out more:
 
 <div align="center">
   <a href="https://www.embarcadero.com/br/" target="_blank">
@@ -85,3 +88,8 @@ Aqui estão algumas das tecnologias com as quais tenho experiência. Clique nos 
     <img src="https://cdn.prod.website-files.com/65d3967bfc599fea766f3984/664f7f134dfe2b8d3b32a5e8_aws.png" alt="AWS" width="60" height="60"/>
   </a>
 </div>
+
+## 🌐 **Contato / Contact**  
+- **Site**: [www.lttech.com.br](https://www.lttech.com.br)  
+- **Email**: alan.leonidas@exemplo.com  
+- **LinkedIn**: [linkedin.com/in/alanleonidas](https://linkedin.com/in/alanleonidas)  
